@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with NestJs
 - 💬 Ask me about Anything
 - 📫 How to reach me: Github, LinkedIn, Email, Instagram, Xing
-- 😄 Pronouns: She, Hers, Miss
+- 😄 Pronouns: She, Her, Miss
 - ⚡ Fun fact: If i could have any superpower, it would be to speak any language so i could connect with anyone in the world.
 
 ### Connect with me:
