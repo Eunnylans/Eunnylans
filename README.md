@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 
-[twitter]: https://twitter.com/eunnylans
+[twitter]: https://twitter.com/eunnylans/
 [youtube]: https://www.youtube.com/channel/UCzfYTsnAfmb8P8Xda5mDNQQ/featured
 [instagram]: https://www.instagram.com/leuchtender_stern18/
 [linkedin]: https://www.linkedin.com/in/eunice-abieyuwa-igbinedion-82bb88117/
