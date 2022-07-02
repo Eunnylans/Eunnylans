@@ -1,4 +1,4 @@
-### Hi, I'm Eunice, nice to e-meet you, I'm a developer!! 👋
+### Hello 👋, I'm Eunice, nice to meet you, I'm a frontend developer and in the process of being a full stack developer!! 
 
 
 **Eunnylans/Eunnylans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
