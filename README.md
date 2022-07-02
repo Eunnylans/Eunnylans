@@ -1,9 +1,9 @@
 ### Hello 👋, I'm Eunice, nice to meet you, I'm a frontend developer and in the process of being a full stack developer!! 
 
 
-**Eunnylans/Eunnylans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**Eunnylans/Eunnylans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ------
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on WBS Coding School
 - 🌱 I’m currently learning React, Storage Location & API 
