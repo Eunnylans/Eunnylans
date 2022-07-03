@@ -35,13 +35,6 @@
 
 ---
 
----
-
-
-
-
-
-
 [twitter]: https://twitter.com/eunnylans/
 [instagram]: https://www.instagram.com/leuchtender_stern18/
 [linkedin]: https://www.linkedin.com/in/eunice-abieyuwa-igbinedion-82bb88117/
