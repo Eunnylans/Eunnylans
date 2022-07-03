@@ -1,4 +1,4 @@
-### Hello 👋, I'm Eunice✨, nice to meet you✨, I'm a frontend developer✨, and in the process of being a full stack developer✨!! 
+### Hello 👋, My name is Eunice Abieyuwa Igbinedion✨, I'm a frontend developer✨, and in the process of being a full stack developer✨!! 
 ------
 
 - 🔭 I’m currently working on WBS Coding School
