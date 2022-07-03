@@ -10,12 +10,18 @@
 - 😄 Pronouns: She, Her, Miss
 - ⚡ Fun fact: If i could have any superpower, it would be to speak any language so i could connect with anyone in the world.
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="euniceigbinedion LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="euniceigbinedion Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+[twitter]: https://twitter.com/eunnylans/
+[instagram]: https://www.instagram.com/leuchtender_stern18/
+[linkedin]: https://www.linkedin.com/in/eunice-abieyuwa-igbinedion-82bb88117/
 
 ---
 
@@ -37,6 +43,4 @@
 
 ---
 
-[twitter]: https://twitter.com/eunnylans/
-[instagram]: https://www.instagram.com/leuchtender_stern18/
-[linkedin]: https://www.linkedin.com/in/eunice-abieyuwa-igbinedion-82bb88117/
+
