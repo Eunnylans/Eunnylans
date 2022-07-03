@@ -13,13 +13,13 @@
 ---
 
 ### Connect with me:
-
+[<img align="left" alt="euniceigbinedion Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Xing]
 [<img align="left" alt="euniceigbinedion LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="euniceigbinedion Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-[twitter]: https://twitter.com/eunnylans/
+[Xing ]: https://www.xing.com/profile/EuniceAbieyuwa_Igbinedion/cv
 [instagram]: https://www.instagram.com/leuchtender_stern18/
 [linkedin]: https://www.linkedin.com/in/eunice-abieyuwa-igbinedion-82bb88117/
 
