@@ -43,8 +43,6 @@
 
 ---
 
-[![Eunnylans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunnylans&show_icons=true&theme=radical)](https://github.com/Eunnylans/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunnylans&layout=compact)](https://github.com/Eunnylans/github-readme-stats)
+[![Eunnylans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunnylans&show_icons=true&theme=radical)](https://github.com/Eunnylans/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunnylans&layout=compact&show_icons=true&theme=radical)](https://github.com/Eunnylans/github-readme-stats)
 
 ---
