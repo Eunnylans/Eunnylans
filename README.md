@@ -1,4 +1,4 @@
-### Hello <h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> </h3>
+### Hello 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 My name is Eunice Abieyuwa Igbinedion✨, I'm a result-driven web developer✨ Am passionate about software architecture and designs✨ Reach me if you want to create something beautiful✨👩‍💻!!".
 ------
 
