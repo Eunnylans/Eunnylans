@@ -1,4 +1,4 @@
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="max-width:100%;">, My name is Eunice Abieyuwa Igbinedion✨, I'm a result-driven web developer✨ Am passionate about software architecture and designs✨ Reach me if you want to create something beautiful✨👩‍💻!!".
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="max-width:100%;"> My name is Eunice Abieyuwa Igbinedion✨, I'm a result-driven web developer✨ Am passionate about software architecture and designs✨ Reach me if you want to create something beautiful✨👩‍💻!!".
 ------
 
 - 🔭 I’m currently a student in WBS Coding School
