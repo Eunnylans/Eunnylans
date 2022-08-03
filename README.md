@@ -53,3 +53,6 @@ My name is Eunice Abieyuwa Igbinedion✨, I'm a result-driven web developer✨ A
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eunnylans)](https://github.com/Eunnylans/github-profile-trophy)
+
+<br />
+[trophy]: https://github.com/Eunnylans/
