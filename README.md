@@ -46,7 +46,7 @@ My name is Eunice Abieyuwa Igbinedion✨, I'm a result-driven web developer✨ A
 
 ---
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Eunnylans&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" /><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eunnylans&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Eunnylans&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" /><img height="200em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eunnylans&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
 
 ---
 
