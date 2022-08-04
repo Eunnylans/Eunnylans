@@ -2,7 +2,7 @@
 My name is Eunice Abieyuwa Igbinedion✨, I'm a result-driven web developer✨ Am passionate about software architecture and designs✨ Reach me if you want to create something beautiful✨👩‍💻!!".
 ------
 
-- 🔭 I’m currently a student in WBS Coding School
+- 🔭 I’m currently enrolled in WBS Coding School
 - 🌱 I’m currently learning React, Storage Location, API, & SQL
 - 👯 I’m looking to collaborate on Interesting Projects
 - 🤔 I’m looking for help with NestJs
