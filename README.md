@@ -1,6 +1,6 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="max-width:100%;"> 
 
-My name is Eunice Abieyuwa Igbinedion✨ Besides coding, I am sales and marketing enthusiast.
+My name is Eunice Abieyuwa Igbinedion✨ Besides coding, I am a sales and marketing enthusiast.
 ------
 
 - 🔭 I’m currently enrolled in WBS Coding School
