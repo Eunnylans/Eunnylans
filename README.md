@@ -1,8 +1,6 @@
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="max-width:100%;"> My name is Eunice Abieyuwa Igbinedion✨ I adopt my user-centric mindset to create easy-to-use applications to deliver a better user experience. <br>Besides coding, I love traveling and photography.
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="max-width:100%;"> 
 
-### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Eunnylans.visitor-badge)
-
-
+My name is Eunice Abieyuwa Igbinedion✨ Besides coding, I am sales and marketing enthusiast.
 ------
 
 - 🔭 I’m currently enrolled in WBS Coding School
@@ -54,5 +52,9 @@
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eunnylans)](https://github.com/Eunnylans/github-profile-trophy)
+
+---
+
+### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Eunnylans.visitor-badge)
 
 
