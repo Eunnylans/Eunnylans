@@ -1,5 +1,8 @@
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="max-width:100%;"> 
-My name is Eunice Abieyuwa Igbinedion✨, I'm a result-driven web developer✨ Am passionate about software architecture and designs✨ Reach me if you want to create something beautiful✨👩‍💻!!".
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="max-width:100%;"> My name is Eunice Abieyuwa Igbinedion✨ I adopt my user-centric mindset to create easy-to-use applications to deliver a better user experience. <br>Besides coding, I love traveling and photography.
+
+### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Eunnylans.visitor-badge)
+
+
 ------
 
 - 🔭 I’m currently enrolled in WBS Coding School
