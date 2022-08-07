@@ -4,7 +4,7 @@ My name is Eunice Abieyuwa Igbinedion✨ Besides coding, I am a sales and market
 ------
 
 - 🔭 I’m currently enrolled in WBS Coding School
-- 🌱 I’m currently learning React, Storage Location, API, & SQL
+- 🌱 I’m currently learning NodeJS, Express, SQL, MongoDb, and backend related tools
 - 👯 I’m looking to collaborate on Interesting Projects
 - 🤔 I’m looking for help with NestJs
 - 💬 Ask me about Anything
