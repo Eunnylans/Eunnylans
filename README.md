@@ -10,7 +10,7 @@ My name is Eunice Abieyuwa Igbinedion✨ Besides coding, I am a sales and market
 - 💬 Ask me about Anything i will be 100% honest
 - 📫 How to reach me: Github, LinkedIn, Email, Instagram, Xing
 - 😄 Pronouns: She, Her, Miss
-- ⚡ Fun fact: If i could have any superpower, it would be to speak any language so i could connect with anyone in the world.
+- ⚡ Fun fact: If i could have any superpower, it would be to speak all languages so i could connect with anyone in the world.
 
 ---
 
