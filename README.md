@@ -8,7 +8,7 @@ My name is Eunice Abieyuwa Igbinedion✨ Besides coding, I am a sales and market
 - 👯 I’m looking forward to collaborating on Interesting Projects
 - 🤔 I’m looking for help with Angular and NestJs
 - 💬 Ask me about Anything i will be 100% honest
-- 📫 How to reach me: Github, LinkedIn, Email, twitter, and Xing
+- 📫 How to reach me: Github, LinkedIn, Email, Twitter, Instagram, and Xing
 - 😄 Pronouns: She, Her, Miss
 - ⚡ Fun fact: If i could have any superpower, it would be to speak all languages so i could connect with anyone in the world.
 
