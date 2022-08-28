@@ -4,7 +4,7 @@ My name is Eunice Abieyuwa Igbinedion✨ Besides coding, I am a sales and market
 ------
 
 - 🔭 I’m currently enrolled in WBS Coding School
-- 🌱 I’m currently learning NodeJS, Express, SQL, MongoDb, and backend related tools
+- 🌱 I’m currently learning TypeScript, NodeJS, Express, SQL, MongoDb, and backend related tools
 - 👯 I’m looking forward to collaborating on Interesting Projects
 - 🤔 I’m looking for help with Angular and NestJs
 - 💬 Ask me about Anything i will be 100% honest
@@ -33,7 +33,6 @@ My name is Eunice Abieyuwa Igbinedion✨ Besides coding, I am a sales and market
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="tailwindcss" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwindcss/tailwindcss.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
