@@ -14,7 +14,7 @@ My name is Eunice Abieyuwa Igbinedion✨ Besides coding, I am a sales and market
 
 ---
 
-### Connect with me:
+### Connect with me via:
 [<img align="left" alt="euniceigbinedion Xing" width="35px" border="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][Xing]
 [<img align="left" alt="euniceigbinedion LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="euniceigbinedion Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
