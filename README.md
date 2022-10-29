@@ -1,6 +1,6 @@
 ### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="max-width:100%;"> 
 
-My name is Eunice A Igbinedion✨ I am a MERN Developer, besides coding, I'm a sales and marketing enthusiast.
+My name is Eunice .A. Igbinedion✨ I am a MERN Developer, besides coding, I'm a sales and marketing enthusiast.
 ------
 
 - 🔭 Graduated From WBS Coding School
