@@ -3,8 +3,8 @@
 My name is Eunice Abieyuwa Igbinedion✨ I am a MERN Developer
 ------
 
-- 🔭 Student in WBS Coding School 
-- 🌱 I’m currently learning TypeScript
+- 🔭 WBS Coding School Alumni
+- 🌱 I’m currently learning ReactJs, JavaScript/TypeScriptAt 
 - 👯 I’m looking forward to collaborating on Interesting Projects
 - 🤔 I’m looking for help with Angular & NestJs
 - 💬 Ask me about Anything i will be 100% honest with you
