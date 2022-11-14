@@ -3,7 +3,7 @@
 My name is Eunice Abieyuwa Igbinedion✨ I am a Junior Fullstack Web and App Developer
 ------
 
-- 🔭 WBS Coding School Alumni
+- 🔭 WBS Coding School 
 - 🌱 I’m currently learning ReactJs, JavaScript/TypeScriptAt 
 - 👯 I’m looking forward to collaborating on Interesting Projects
 - 🤔 I’m looking for help with Angular & NestJs
