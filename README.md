@@ -1,5 +1,5 @@
-### Hallo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="max-width:100%;"> 
-My name is Eunice Abieyuwa Igbinedion✨ I am a Junior Fullstack(MERN) Web and App Developer
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="max-width:100%;"> My name is Eunice Abieyuwa Igbinedion✨ 
+I am a Junior Fullstack(MERN) Web and App Developer
 ------
 
 - 🔭 WBS Coding School 
