@@ -16,7 +16,7 @@
 [<img align="left" alt="euniceigbinedion Xing" width="35px" border="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][Xing]
 [<img align="left" alt="euniceigbinedion LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="euniceigbinedion Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="euniceigbinedion Portfolio" width="35px" src="https://eunice-igbinedion-portfolio.netlify.app/npm/simple-icons@v3/icons/portfolio.svg" />][portfolio]
+[<img align="left" alt="euniceigbinedion Portfolio" width="35px" src="https://eunice-igbinedion-portfolio.netlify.app" />][portfolio]
 
 <br />
 
