@@ -2,7 +2,7 @@
 ------
 
 - 🔭 WBS Coding School
-- 🌱 I’m currently learning React-Native, TypeScript
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking forward to collaborating on Interesting Projects
 - 🤔 I’m looking for help with Angular & NextJs
 - 💬 Ask me about Anything i will be 100% honest with you
