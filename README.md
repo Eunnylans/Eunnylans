@@ -6,7 +6,7 @@
 - 👯 I’m looking forward to collaborating on Interesting Projects
 - 🤔 I’m looking for help with Angular & NextJs
 - 💬 Ask me about Anything i will be 100% honest with you
-- 📫 How to reach me: Github, LinkedIn, Email, Twitter, Instagram, Xing, and all my social media handle.
+- 📫 How to reach me: Github, LinkedIn, Email, Twitter, Instagram, Xing, and all my social media handles.
 - 😄 Pronouns: She, Her, Miss
 - ⚡ Fun fact: If i could have any superpower, it would be to speak all languages so i could connect with anyone in the world.
 
