@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking forward to collaborating on Interesting Projects
 - 🤔 I’m looking for help with Angular & NextJs
-- 💬 Ask me about Anything i will be 100% honest with you
+- 💬 Ask me about Anything I will be 100% honest with you
 - 📫 How to reach me: Github, LinkedIn, Email, Twitter, Instagram, Xing, and all my social media handles.
 - 😄 Pronouns: She, Her, Miss
 - ⚡ Fun fact: If i could have any superpower, it would be to speak all languages so I could connect with anyone in the world.
