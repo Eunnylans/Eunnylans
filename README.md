@@ -55,5 +55,8 @@
 ---
 
 ### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Eunnylans.visitor-badge)
+### Thanks for visiting!
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Eunnylans.visitor-badge)
+
 
 
