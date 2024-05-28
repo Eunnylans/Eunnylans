@@ -56,8 +56,10 @@
 
 ### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Eunnylans.visitor-badge)
 
-### Thanks for visiting!
-![visitor badge](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visitors&query=value&url=https://api.countapi.xyz/get/Eunnylans/visitor-badge)
+      ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                
+
+
 
 
 
