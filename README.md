@@ -56,7 +56,7 @@
 
 ### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=eunnylans.visitor-badge)
 
-### https://vbr.nathanchung.dev/badge?page_id=eunnylans
+### Thanks for visiting ![visitor badge](https://vbr.nathanchung.dev/badge?page_id=eunnylans)
                 
 
 
